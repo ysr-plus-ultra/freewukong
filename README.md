@@ -1,3 +1,3 @@
 # freewukong
 
-free wukong is ahk macro for blocking leech & bad manners users while playing Warframe
+free wukong is ahk macro for blocking leeches & bad users while playing Warframe
